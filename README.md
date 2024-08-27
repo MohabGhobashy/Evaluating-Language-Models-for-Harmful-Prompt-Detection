@@ -12,6 +12,10 @@ This project aims to evaluate different language models for their ability to det
 !pip install langchain_anthropic
 ```
 
+## Models used
+- claude-3
+- gemini-1.5-flash
+
 ## Evaluation Metrics
 
 The evaluation focuses on the following key metrics:
